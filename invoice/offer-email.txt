@@ -1,8 +1,8 @@
 TO: oldstory@oldstory.fi
 SUBJECT: Ravintola Old Story — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/ravintola-old-story/
-INVOICE: YEF-2026-031
-DATE: 2026-03-18T03:04:31.756Z
+INVOICE: YEF-2026-037
+DATE: 2026-03-18T03:16:21.049Z
 
 Hei!
 
