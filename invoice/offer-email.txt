@@ -1,8 +1,8 @@
 TO: oldstory@oldstory.fi
 SUBJECT: Ravintola Old Story — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-oldstory.netlify.app
+PREVIEW: https://yassinfennir.github.io/ravintola-old-story/
 INVOICE: YEF-2026-031
-DATE: 2026-03-18T02:46:05.451Z
+DATE: 2026-03-18T03:04:31.756Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin ravintolanne Ravintola Old Story verkkosivustoon ja huomasin, etta sii
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-oldstory.netlify.app
+👉  https://yassinfennir.github.io/ravintola-old-story/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
